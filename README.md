@@ -3,7 +3,10 @@
 # Tech- Stack
 - HTML5
 - Java
+- Spring Framework
 - Spring Boot
+- Spring Data JPA
 - Hibernate
-- MySql
-- 
+- MySQL
+- Swagger
+- Lombok
